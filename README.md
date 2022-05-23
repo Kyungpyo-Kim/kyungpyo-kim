@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyungpyo-Kim&count_bg=%238BCEC8&title_bg=%233B7FD8&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [![](https://raw.githubusercontent.com/Kyungpyo-Kim/kyungpyo-kim/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Kyungpyo-Kim/kyungpyo-kim/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Kyungpyo-Kim/kyungpyo-kim/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Kyungpyo-Kim/kyungpyo-kim/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Kyungpyo-Kim/kyungpyo-kim/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyungpyo94)](https://solved.ac/kyungpyo94)
