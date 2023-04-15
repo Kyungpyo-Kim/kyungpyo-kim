@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Kyungpyo-Kim/kyungpyo-kim/master/profile-summary-card-output/codeSTACKr/4-productive-time.svg)
-```
-
-    
